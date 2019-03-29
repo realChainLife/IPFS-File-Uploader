@@ -23,7 +23,7 @@ const LoginPage = (props) => {
     return (
         <div>
             <ReactSignupLoginComponent
-                title="My awesome company"
+                title="My awesome telegram bot"
                 handleSignup={signupWasClickedCallback}
                 handleLogin={loginWasClickedCallback}
                 handleRecoverPassword={recoverPasswordWasClickedCallback}
